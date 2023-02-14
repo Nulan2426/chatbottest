@@ -1,8 +1,10 @@
 # chatbottest
-Taking a walk into chatbot land, incorporating a simple chatbot built on top of an HTML page to answer simple questions around Turners 'Online Auctions' FAQ
+Taking a walk into chatbot land, incorporating a simple chatbot built on top of an HTML page to answer questions around Turners 'Online Auctions' FAQ.
+Some learns, your Intents, Contexts (input and output) are largely the most important things you can integrate within your chatbot, I struggled a little with the assumption that I could just input information and dialogflow would pick it up. 
+Future of this project would include, better mapping, maybe even go old-shcool and map the intents out and not rely soley on the Q&A's to gather than information for you. User steps, or possible UX is great here to get an idea. 
+Testing, this bot to be more realistic would require some testing to ensure that the intents and questions that are possible with the Online Auction feature are covered off.
 
 Built With:
-
 *HTML
 *CSS
 *JAVASCRIPT
